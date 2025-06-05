@@ -25,3 +25,6 @@ conf.yaml
 # coverage report
 coverage.xml
 coverage/
+
+/python3.12
+.python-version

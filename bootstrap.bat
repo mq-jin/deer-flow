@@ -20,7 +20,7 @@ GOTO END
 echo Starting DeerFlow in [DEVELOPMENT] mode...
 start uv run server.py --reload
 cd web
-start pnpm dev
+start npm run dev
 REM Wait for user to close
 pause
 
